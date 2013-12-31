@@ -1,0 +1,9 @@
+## eclipse reference  ##
+###################
+
+*.classpath
+*.project
+*.settings/
+src/log4j.*
+src/META-INF/*
+war/WEB-INF/*
